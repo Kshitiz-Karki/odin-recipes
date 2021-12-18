@@ -1,2 +1,2 @@
 # odin-recipes
-Hi, getting started with Web Development!!
+Hi, recipe website from TheOdinProjet for learning Web Development!!
